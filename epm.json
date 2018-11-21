@@ -1,0 +1,9 @@
+{
+  "name": "vector",
+  "executable": false,
+  "language": "c",
+  "compilation": "-W -Wall -Wextra",
+  "sources": [
+    "src/vector.c"
+  ]
+}
